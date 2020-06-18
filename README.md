@@ -12,3 +12,5 @@ Ouvrir le fichier **tp_ml_go.ipynb** dans ```jupyter notebook```
 
 
 Ouvrir le fichier **tp_ml_go.html** dans un navigateur
+
+**my_predictions.txt** sont les prédictions en sortie
